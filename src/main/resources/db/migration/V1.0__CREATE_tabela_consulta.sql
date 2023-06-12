@@ -1,0 +1,7 @@
+CREATE TABLE usuarios (
+  id INT PRIMARY KEY NOT NULL,
+  nome VARCHAR(100) NOT NULL,
+  email VARCHAR(100) NOT NULL,
+  celular VARCHAR(20) NOT NULL,
+ data_consulta DATETIME NOT NULL
+);

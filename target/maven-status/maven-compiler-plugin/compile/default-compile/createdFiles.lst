@@ -1,0 +1,11 @@
+persistence\TestandoCadastroGenericDAO.class
+persistence\GenericDAO.class
+email\enviaremail$1.class
+persistence\UsuarioDAO.class
+Controller\JacksonConfig.class
+Controller\JaxRsApplication.class
+business\Usuariobusiness.class
+Controller\controller.class
+entities\MessageResponse.class
+email\enviaremail.class
+entities\Usuario.class
